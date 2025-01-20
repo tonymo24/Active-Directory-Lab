@@ -33,7 +33,10 @@ The Active Directory Lab project aimed to establish a controlled environment for
 
 *Ref 5: Attacker Machine Setup* <img alt="Screenshot 2025-01-19 212321" src="https://github.com/user-attachments/assets/7c2d5e30-08dc-4d3c-8e93-c31d97b9e534" />
 
-*Ref 5: Configure the Static IP Adress for Splunk Server* <img alt="VirtualBox_splunk_19_01_2025_22_10_04" src="https://github.com/user-attachments/assets/e0971e05-cebd-43cf-a43d-ecb667d8e77c" />
+*Ref 6: Configure the Static IP Adress for Splunk Server* <img alt="VirtualBox_splunk_19_01_2025_22_10_04" src="https://github.com/user-attachments/assets/e0971e05-cebd-43cf-a43d-ecb667d8e77c" />
+
+*Ref 7: Configure the Static IP Adress for Target Machine* <img alt="VirtualBox_demo_19_01_2025_22_27_41" src="https://github.com/user-attachments/assets/c2f1bb73-4f23-4728-93b6-bb7a8bf328aa" />
+
 
 
 
