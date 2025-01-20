@@ -27,3 +27,6 @@ The Active Directory Lab project aimed to establish a controlled environment for
 
 *Ref 2: Target Machine Setup* <img alt="Screenshot 2025-01-19 205521" src="https://github.com/user-attachments/assets/31ff8e61-564d-4f64-936a-0ab67e826ad1" />
 
+*Ref 3: Domain Controller Setup* <img alt="Screenshot 2025-01-19 211119" src="https://github.com/user-attachments/assets/613a39ab-2d4c-49f6-a9a3-0addd9f7b0ac" />
+
+
