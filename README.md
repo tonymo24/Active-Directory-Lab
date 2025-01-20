@@ -29,4 +29,9 @@ The Active Directory Lab project aimed to establish a controlled environment for
 
 *Ref 3: Domain Controller Setup* <img alt="Screenshot 2025-01-19 211119" src="https://github.com/user-attachments/assets/613a39ab-2d4c-49f6-a9a3-0addd9f7b0ac" />
 
+*Ref 4: Splunk Server Setup* <img alt="Screenshot 2025-01-19 212229" src="https://github.com/user-attachments/assets/98cd1159-8a77-4d91-928d-214d86a554ee" />
+
+
+*Ref 5: Attacker Machine Setup* <img alt="Screenshot 2025-01-19 212321" src="https://github.com/user-attachments/assets/7c2d5e30-08dc-4d3c-8e93-c31d97b9e534" />
+
 
