@@ -24,3 +24,5 @@ The Active Directory Lab project aimed to establish a controlled environment for
 ## Steps
 
 *Ref 1: Network Diagram displaying the flow of data*   <img width="960" alt="Screenshot 2025-01-19 201901" src="https://github.com/user-attachments/assets/11975f51-63f1-4113-baca-b29e732bad5a" />
+
+*Ref 2: Target Machine Setup* <img scr="https://github.com/user-attachments/assets/74b35efb-38e8-4945-9fc1-c2f9aba14093" />
