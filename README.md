@@ -36,6 +36,9 @@ The Active Directory Lab project aimed to establish a controlled environment for
 *Ref 6: Configure the Static IP Adress for Splunk Server* <img alt="VirtualBox_splunk_19_01_2025_22_10_04" src="https://github.com/user-attachments/assets/e0971e05-cebd-43cf-a43d-ecb667d8e77c" />
 
 *Ref 7: Configure the Static IP Adress for Target Machine* <img alt="VirtualBox_demo_19_01_2025_22_27_41" src="https://github.com/user-attachments/assets/c2f1bb73-4f23-4728-93b6-bb7a8bf328aa" />
+*Ref 8: Our Splunk Universal Forwarder Input Configuration File:                                                                                                               
+It will push event logs from Application, Security, System, and Sysmon over to our Splunk Server* <img alt="VirtualBox_demo_19_01_2025_22_42_32" src="https://github.com/user-attachments/assets/2eb9e81c-444a-4115-98ae-fa1fedc0f899" />
+
 
 
 
