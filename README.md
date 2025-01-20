@@ -39,6 +39,13 @@ The Active Directory Lab project aimed to establish a controlled environment for
 *Ref 8: Our Splunk Universal Forwarder Input Configuration File:                                                                                                               
 It will push event logs from Application, Security, System, and Sysmon over to our Splunk Server* <img alt="VirtualBox_demo_19_01_2025_22_42_32" src="https://github.com/user-attachments/assets/2eb9e81c-444a-4115-98ae-fa1fedc0f899" />
 
+*Ref 9: Configure the IP Adress for our Kali Linux Attacker Machine* <img alt="VirtualBox_kali-linux-2024 2-virtualbox-amd64_19_01_2025_23_57_40" src="https://github.com/user-attachments/assets/7ffe3e0f-3182-4ad8-8cdf-17c5c8d0e972" />
+
+*Ref 10: Install Crowbar to use for brute force attack* <img alt="VirtualBox_kali-linux-2024 2-virtualbox-amd64_20_01_2025_00_01_55" src="https://github.com/user-attachments/assets/f677cd45-fe18-45a6-a12b-86b9bb88afec" />
+
+
+*Ref 11: Run Crowbar Password Command to Attack our Target Machine* <img alt="VirtualBox_kali-linux-2024 2-virtualbox-amd64_20_01_2025_00_35_57" src="https://github.com/user-attachments/assets/b3a503c2-a58c-40a3-8718-7d50d7dc984b" />
+
 
 
 
